@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Иванова Мария Денисовна — Учитель начальных классов</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f9f9f9;
+      color: #333;
+    }
+    header, footer {
+      background-color: #cce5ff;
+      padding: 20px;
+      text-align: center;
+    }
+    nav {
+      background-color: #e6f0ff;
+      padding: 10px;
+      text-align: center;
+    }
+    nav a {
+      margin: 0 15px;
+      text-decoration: none;
+      color: #0056b3;
+    }
+    section {
+      padding: 20px;
+    }
+    h2 {
+      color: #004085;
+    }
+    .container {
+      max-width: 1000px;
+      margin: auto;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Иванова Мария Денисовна</h1>
+    <p>Будущий учитель начальных классов</p>
+  </header>
+
+  <nav>
+    <a href="#about">Обо мне</a>
+    <a href="#parents">Родителям</a>
+    <a href="#students">Ученикам</a>
+    <a href="#colleagues">Коллегам</a>
+    <a href="#contacts">Контакты</a>
+  </nav>
+
+  <div class="container">
+    <section id="about">
+      <h2>Обо мне</h2>
+      <p>Меня зовут Иванова Мария Денисовна. Я — будущий учитель начальных классов. С детства мечтала работать с детьми, вдохновлять и развивать их. У меня педагогическое образование, и я стремлюсь создать добрую и развивающую среду для каждого ученика.</p>
+    </section>
+
+    <section id="parents">
+      <h2>Родителям</h2>
+      <ul>
+        <li>Советы по подготовке к школе</li>
+        <li>Рекомендации по режиму дня</li>
+        <li>Ответы на популярные вопросы</li>
+      </ul>
+    </section>
+
+    <section id="students">
+      <h2>Ученикам</h2>
+      <ul>
+        <li>Интерактивные задания и игры</li>
+        <li>Расписание занятий</li>
+        <li>Полезные материалы</li>
+      </ul>
+    </section>
+
+    <section id="colleagues">
+      <h2>Коллегам</h2>
+      <ul>
+        <li>Методические рекомендации</li>
+        <li>Обмен опытом</li>
+        <li>Полезные педагогические ресурсы</li>
+      </ul>
+    </section>
+
+    <section id="contacts">
+      <h2>Контакты</h2>
+      <p>Email: example@example.com</p>
+      <p>Форма обратной связи будет добавлена позже.</p>
+    </section>
+  </div>
+
+  <footer>
+    <p>&copy; 2025 Иванова Мария Денисовна</p>
+  </footer>
+</body>
+</html>
